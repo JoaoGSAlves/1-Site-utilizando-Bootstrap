@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+body {
+    background-color: black;
+
+}
+.navbar-brand img {
+    width: 220px;
+}
+.cabecalho {
+    background-color: white;
+}
+.card {
+    background-color: black;    
+}
+.card h5, p{
+    color: white;
+}
+.card a {
+    font-weight: bold;
+    color: black;
+    background-color: white;
+}
+.quatro {
+    background-color: grey;
+}
+.forms {
+    background-color: white;
+    padding: 9px 13px;
+    height: 357px;
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border: 24px solid grey;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aliceblue;
+}
+footer h4 {
+    color: black;
+    font-weight: bold;
+}
+.comput {
+    width: 350px;
+}
